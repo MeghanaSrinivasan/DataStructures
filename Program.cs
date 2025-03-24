@@ -11,6 +11,7 @@ namespace DataStructures
     {
         //1. Find the maximum and minimum elements in an array.
 
+
         static void Main()
         {
             int[] arrayData = { 3, 33, 0, 333 };
