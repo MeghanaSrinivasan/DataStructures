@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesInAnArray",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroesToEnd", "..\MoveZeroesToEnd\MoveZeroesToEnd.csproj", "{ED2CCA6A-DB66-468C-BE84-DE703015F4E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringsmanipulations", "..\Stringsmanipulations\Stringsmanipulations.csproj", "{C42B0CB2-BA4D-4786-BAAC-23A16BDFA8F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ED2CCA6A-DB66-468C-BE84-DE703015F4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED2CCA6A-DB66-468C-BE84-DE703015F4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED2CCA6A-DB66-468C-BE84-DE703015F4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42B0CB2-BA4D-4786-BAAC-23A16BDFA8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42B0CB2-BA4D-4786-BAAC-23A16BDFA8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42B0CB2-BA4D-4786-BAAC-23A16BDFA8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42B0CB2-BA4D-4786-BAAC-23A16BDFA8F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
